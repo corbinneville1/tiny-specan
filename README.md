@@ -36,6 +36,20 @@ Adjust this list to match your exact build (case, battery, etc.).
 
 ---
 
+## Controls
+
+**Adafruit 1.3" TFT Bonnet buttons**
+
+- **Button A (top left):** Toggle peak hold on/off  
+- **Button B (top right):** Cycle step size (5 / 12.5 / 25 kHz)  
+- **Button X (bottom left):** Decrease center frequency  
+- **Button Y (bottom right):** Increase center frequency  
+- **Joystick Up/Down:** Change span  
+- **Joystick Left/Right:** Adjust RF gain  
+- **Joystick Center:** Quit / exit scanner
+
+---
+
 ## Software / Dependencies
 
 On the Pi (Debian / Raspberry Pi OS 64-Bit Lite):
