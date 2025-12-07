@@ -51,3 +51,9 @@ sudo apt install -y python3 python3-pip rtl-sdr
 pip3 install numpy
 # Add any others your script actually uses:
 # pip3 install pillow
+
+---
+
+## 3D Print Files
+
+https://www.thingiverse.com/thing:7225279
