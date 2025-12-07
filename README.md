@@ -4,6 +4,10 @@ Tiny Specan is a pocket-sized spectrum analyzer built around a Raspberry Pi Zero
 
 > **Use case:** throw it in a bag, power it from a USB bank or PiSugar, and sweep common bands for activity without needing a laptop.
 
+3d Print Files Link:
+
+https://www.thingiverse.com/thing:7225279
+
 ---
 
 ## Hardware
@@ -51,9 +55,3 @@ sudo apt install -y python3 python3-pip rtl-sdr
 pip3 install numpy
 # Add any others your script actually uses:
 # pip3 install pillow
-
----
-
-## 3D Print Files
-
-https://www.thingiverse.com/thing:7225279
