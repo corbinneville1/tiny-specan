@@ -41,7 +41,7 @@ Adjust this list to match your exact build (case, battery, etc.).
 **Adafruit 1.3" TFT Bonnet buttons**
 
 - **Button #5 (Right-side Bottom Left):** Change Preset Center Frequency Between FRS/GMRS, Airband, NOAA Weather, 2M HAM.
-- **Button #6 (Right-side Top Right):** Toggle peak hold on/off
+- **Button #6 (Right-side Top Right):** Hold Spectrum (Freeze it where it is).
 - **Click Button #5 & #6 Simultaneously:** Cycle Bandwidth (.3MHz / 1.2MHz / 2.4MHz)
 - **Joystick Up/Down:** Change Step Size 
 - **Joystick Left/Right:** Change Center Frequency
