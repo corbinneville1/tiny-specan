@@ -1,0 +1,14 @@
+[Unit]
+Description=Tiny TFT RTL-SDR Spectrum Scanner
+After=multi-user.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi
+ExecStart=/usr/bin/python3 /home/pi/tiny_tft_scanner.py
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
